@@ -1,1 +1,0 @@
-# Stratégie univariée de traitement des données

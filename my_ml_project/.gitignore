@@ -1,6 +1,0 @@
-# Fichiers à ignorer par Git
-*.pyc
-__pycache__/
-*.log
-*.csv
-*.sqlite

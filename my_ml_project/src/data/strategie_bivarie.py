@@ -1,1 +1,0 @@
-# Stratégie bivariée de traitement des données

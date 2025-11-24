@@ -1,1 +1,0 @@
-# Code pour entraîner le modèle

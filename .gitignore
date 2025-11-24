@@ -1,0 +1,38 @@
+# Fichiers Python compilés
+*.pyc
+*.pyo
+__pycache__/
+
+# Environnement virtuel (si tu utilises un environnement virtuel)
+venv/
+env/
+*.egg
+
+# Fichiers de distribution Python (les fichiers générés lors de la création du package)
+dist/
+build/
+*.egg-info/
+
+# Fichiers de configuration d'IDE
+.idea/
+.vscode/
+
+# Fichiers de logs
+*.log
+
+# Fichiers temporaires de MacOS
+.DS_Store
+
+# Fichiers temporaires de Windows
+Thumbs.db
+
+# Cache de pip
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Fichiers générés par le processus de packaging
+*.tar.gz
+*.whl
+
+# Dossiers ou fichiers temporaires générés par la construction du package
+build/
