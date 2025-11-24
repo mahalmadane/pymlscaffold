@@ -1,7 +1,7 @@
 from setuptools import setup, find_packages
 
 setup(
-    name='PyMLScaffold',  # Nom de ton package
+    name='pymlscaffold',  # Nom de ton package
     version='0.1',
     packages=find_packages(),  # Trouve tous les sous-packages
     install_requires=[],  # Ajouter ici les dépendances nécessaires
